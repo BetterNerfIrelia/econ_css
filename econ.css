@@ -2,3 +2,7 @@
 .session-info{
   display: none;
 }
+
+.content-header content{
+    display: none;
+}
