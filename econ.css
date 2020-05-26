@@ -1,12 +1,30 @@
-
+/* version etc. at the bottom */
 .session-info{
   display: none;
 }
 
+/* header and progressbar at the top */
 .content-header content{
     display: none;
 }
 
+/* h */
 #idfb{
+color: #0079c2;
+margin-top: 40px;
+margin-bottom: 40px;
+}
+
+/* first select */
+.idfc{
+margin-bottom: 25px;}
+
+/* header hr */
+#hr hr-12{
+display: none;
+}
+
+/* checkmark for selects */
+.econ-icon--success{
 color: #0079c2;
 }
