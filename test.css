@@ -34,3 +34,11 @@ border-radius: 25px;
 select{
 border: 1px solid #0079c2;
 }
+
+textarea{
+border: 1px solid #0079c2;
+}
+
+input{
+border: 1px solid #0079c2;
+}
