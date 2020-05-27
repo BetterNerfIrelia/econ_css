@@ -12,6 +12,10 @@ margin-top: 40px;
 margin-bottom: 40px;
 }
 
+h3{
+  color: #0079c2;
+}
+
 .idfc{
 margin-bottom: 25px;
 }
@@ -41,4 +45,8 @@ border: 1px solid #0079c2;
 
 input{
 border: 1px solid #0079c2;
+}
+
+span{
+color: gray;
 }
