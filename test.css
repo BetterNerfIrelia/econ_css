@@ -56,7 +56,7 @@ display : none;
 }
 
 .econ-breadcrump__wrapper{
-display : none;
+display : none !important;
 }
 
 hr{
