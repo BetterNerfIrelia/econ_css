@@ -13,7 +13,7 @@ margin-bottom: 40px;
 }
 
 h3{
-  color: #0079c2;
+  color: #0079c2 !important;
 }
 
 .idfc{
@@ -36,15 +36,15 @@ border-radius: 25px;
 }
 
 select{
-border: 1px solid #0079c2;
+border: 1px solid #0079c2 !important;
 }
 
 textarea{
-border: 1px solid #0079c2;
+border: 1px solid #0079c2 !important;
 }
 
 input{
-border: 1px solid #0079c2;
+border: 1px solid #0079c2 !important;
 }
 
 span{
