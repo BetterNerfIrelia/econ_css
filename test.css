@@ -50,3 +50,11 @@ border: 1px solid #0079c2 !important;
 span{
 color: gray;
 }
+
+.econ-progress{
+display : none;
+}
+
+.econ-breadcrump{
+display : none;
+}
