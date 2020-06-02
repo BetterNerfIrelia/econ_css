@@ -58,3 +58,9 @@ display : none;
 .econ-breadcrump__wrapper{
 display : none;
 }
+
+hr{
+display : none !important;
+}
+
+
