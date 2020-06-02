@@ -3,7 +3,11 @@
 }
 
 .content-header content{
-    display: none;
+    display: none !important;
+}
+
+.content-header{
+    display: none !important;
 }
 
 #idfb{
