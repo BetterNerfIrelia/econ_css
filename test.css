@@ -61,7 +61,7 @@ background-color: green;
 }
 
 .control-label{
-color: black;
+color: black !important;
 }
 
 span{
