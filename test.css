@@ -33,6 +33,11 @@ display: none !important;
 color: white; 
 }
 
+.econ-icon--error{
+display: none !important;
+color: white; 
+}
+
 #econ-container{
 background-color: #ffffff;
 padding: 20px;
