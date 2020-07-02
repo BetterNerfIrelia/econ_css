@@ -50,6 +50,11 @@ input{
 border: 1px solid black !important;
 }
 
+input[type='radio']:checked:after{
+color: red;
+background-color: green;
+}
+
 span{
 color: gray;
 }
