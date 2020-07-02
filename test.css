@@ -29,7 +29,8 @@ display: none;
 }
 
 .econ-icon--success{
-display: none;
+display: none !important;
+color: white; 
 }
 
 #econ-container{
