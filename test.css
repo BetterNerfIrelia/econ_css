@@ -60,6 +60,10 @@ color: red;
 background-color: green;
 }
 
+.control-label{
+color: black;
+}
+
 span{
 color: gray;
 }
