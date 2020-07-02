@@ -64,12 +64,12 @@ background-color: green;
 color: black !important;
 }
 
-label{
-color: black !important;
+.econ-checkbox__label{
+color: grey !important;
 }
 
-span{
-color: gray;
+label{
+color: black !important;
 }
 
 .econ-progress{
