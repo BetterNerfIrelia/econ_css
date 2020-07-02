@@ -64,6 +64,10 @@ background-color: green;
 color: black !important;
 }
 
+label{
+color: black;
+}
+
 span{
 color: gray;
 }
