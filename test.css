@@ -68,6 +68,10 @@ color: black !important;
 color: grey !important;
 }
 
+.econ-radio__label{
+color: grey !important;
+}
+
 label{
 color: black !important;
 }
