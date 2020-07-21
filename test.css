@@ -62,7 +62,7 @@ background-color: green;
 
 .control-label{
 color: black !important;
-  text-align: left;
+  text-align: left !important;
 }
 
 .econ-checkbox__label{
@@ -94,7 +94,7 @@ display : none !important;
 }
 
 econ-control__label{
-text-align: left;
+text-align: left !important;
 }
 
 @font-face { font-family: "Ingra"; font-style: normal; font-weight: 100; src: url("../Fonts/Ingra/Ingra-Light.woff2") format("woff2"), url("../Fonts/Ingra/Ingra-Light.woff") format("woff"); }
