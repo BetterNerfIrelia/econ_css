@@ -65,6 +65,10 @@ color: black !important;
   text-align: left !important;
 }
 
+.econ-control__label {
+    text-align: left !important;
+  }
+
 .econ-checkbox__label{
 color: grey !important;
 }
