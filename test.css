@@ -124,5 +124,5 @@ text-align: left !important;
 @font-face { font-family: "IngraCd"; font-style: normal; font-weight: 800; src: url("../Fonts/IngraCd/SemiBold.woff2") format("woff2"), url("../Fonts/IngraCd/IngraCd-SemiBold.woff") format("woff"); }
 
 body{
-font-family : "Ingra", sans-serif;
+font-family : "Ingra", sans-serif !important;
 }
