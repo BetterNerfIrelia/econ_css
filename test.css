@@ -101,28 +101,6 @@ econ-control__label{
 text-align: left !important;
 }
 
-@font-face { font-family: "Ingra"; font-style: normal; font-weight: 100; src: url("../Fonts/Ingra/Ingra-Light.woff2") format("woff2"), url("../Fonts/Ingra/Ingra-Light.woff") format("woff"); }
-
-@font-face { font-family: "Ingra"; font-style: normal; font-weight: 200; src: url("../Fonts/Ingra/Ingra-Book.woff2") format("woff2"), url("../Fonts/Ingra/Ingra-Book.woff") format("woff"); }
-
-@font-face { font-family: "Ingra"; font-style: normal; font-weight: 400; src: url("../Fonts/Ingra/Ingra-Regular.woff2") format("woff2"), url("../Fonts/Ingra/Ingra-Regular.woff") format("woff"); }
-
-@font-face { font-family: "Ingra"; font-style: normal; font-weight: 600; src: url("../Fonts/Ingra/Ingra-Medium.woff2") format("woff2"), url("../Fonts/Ingra/Ingra-Medium.woff") format("woff"); }
-
-@font-face { font-family: "Ingra"; font-style: normal; font-weight: 800; src: url("../Fonts/Ingra/SemiBold.woff2") format("woff2"), url("../Fonts/Ingra/Ingra-SemiBold.woff") format("woff"); }
-
-
-
-@font-face { font-family: "IngraCd"; font-style: normal; font-weight: 100; src: url("../Fonts/IngraCd/IngraCd-Light.woff2") format("woff2"), url("../Fonts/IngraCd/IngraCd-Light.woff") format("woff"); }
-
-@font-face { font-family: "IngraCd"; font-style: normal; font-weight: 200; src: url("../Fonts/IngraCd/IngraCd-Book.woff2") format("woff2"), url("../Fonts/IngraCd/IngraCd-Book.woff") format("woff"); }
-
-@font-face { font-family: "IngraCd"; font-style: normal; font-weight: 400; src: url("../Fonts/IngraCd/IngraCd-Regular.woff2") format("woff2"), url("../Fonts/IngraCd/IngraCd-Regular.woff") format("woff"); }
-
-@font-face { font-family: "IngraCd"; font-style: normal; font-weight: 600; src: url("../Fonts/IngraCd/IngraCd-Medium.woff2") format("woff2"), url("../Fonts/IngraCd/IngraCd-Medium.woff") format("woff"); }
-
-@font-face { font-family: "IngraCd"; font-style: normal; font-weight: 800; src: url("../Fonts/IngraCd/SemiBold.woff2") format("woff2"), url("../Fonts/IngraCd/IngraCd-SemiBold.woff") format("woff"); }
-
 body{
 font-family : "Ingra", sans-serif !important;
 }
