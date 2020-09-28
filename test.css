@@ -105,6 +105,27 @@ econ-control__label{
 text-align: left !important;
 }
 
-body{
-font-family : "Ingra", sans-serif !important;
-}
+@font-face { font-family: "Ingra"; font-style: normal; font-weight: 100; src: url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/Ingra-Light.woff2") format("woff2"), url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/Ingra-Light.woff") format("woff"); }
+
+@font-face { font-family: "Ingra"; font-style: normal; font-weight: 200; src: url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/Ingra-Book.woff2") format("woff2"), url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/Ingra-Book.woff") format("woff"); }
+
+@font-face { font-family: "Ingra"; font-style: normal; font-weight: 400; src: url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/Ingra-Regular.woff2") format("woff2"), url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/Ingra-Regular.woff") format("woff"); }
+
+@font-face { font-family: "Ingra"; font-style: normal; font-weight: 600; src: url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/Ingra-Medium.woff2") format("woff2"), url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/Ingra-Medium.woff") format("woff"); }
+
+@font-face { font-family: "Ingra"; font-style: normal; font-weight: 800; src: url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/Ingra-SemiBold.woff2") format("woff2"), url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/Ingra-SemiBold.woff") format("woff"); }
+
+@font-face { font-family: "IngraCd"; font-style: normal; font-weight: 100; src: url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/IngraCd-Light.woff2") format("woff2"), url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/IngraCd-Light.woff") format("woff"); }
+
+@font-face { font-family: "IngraCd"; font-style: normal; font-weight: 200; src: url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/IngraCd-Book.woff2") format("woff2"), url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/IngraCd-Book.woff") format("woff"); }
+
+@font-face { font-family: "IngraCd"; font-style: normal; font-weight: 400; src: url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/IngraCd-Regular.woff2") format("woff2"), url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/IngraCd-Regular.woff") format("woff"); }
+
+@font-face { font-family: "IngraCd"; font-style: normal; font-weight: 600; src: url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/IngraCd-Medium.woff2") format("woff2"), url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/IngraCd-Medium.woff") format("woff"); }
+
+@font-face { font-family: "IngraCd"; font-style: normal; font-weight: 800; src: url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/IngraCd-SemiBold.woff2") format("woff2"), url("https://www.hypovbg.at/typo3conf/ext/hypo_local/Resources/Public/newfonts/IngraCd-SemiBold.woff") format("woff"); }
+
+body { font-size: 1.125rem; line-height: 1.4; font-family: "Ingra", sans-serif; margin: 0; padding: 0; }
+
+@media (min-width: 3240px) { body { font-size: 3rem; line-height: 1.6; } }
+
