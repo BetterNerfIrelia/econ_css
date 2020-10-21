@@ -6,4 +6,7 @@ function radioListener() {
 }
 
 document.getElementById("radio1").addEventListener("click", radioListener);
+document.getElementById("radio2").addEventListener("click", radioListener);
+document.getElementById("radio3").addEventListener("click", radioListener);
+document.getElementById("radio4").addEventListener("click", radioListener);
 
