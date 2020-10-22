@@ -1,3 +1,9 @@
+var buttons = document.getElementsByClassName('econ-button btn  btn-primary');
+
+function startQuiz() {
+buttons[0].click();
+}
+
 function radioListener() {
   	var blue = document.getElementById('jammer_blue');
 	var red = document.getElementById('jammer_red');
