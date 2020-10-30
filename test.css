@@ -1,3 +1,10 @@
+body{
+background-image: url('https://www.hypovbg.at/fileadmin/Freiraum/Hintergrund_pattern.png') !important;
+background-repeat: no-repeat !important;
+background-attachment: fixed !important;
+background-size: cover !important;
+}
+
 .session-info{
   display: none;
 }
