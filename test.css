@@ -19,6 +19,12 @@ background-attachment: fixed !important;
 background-size: cover !important;
 }
 
+.content-main.container {
+width: 100%;
+display: flex;
+justify-content: center;
+}
+
 .session-info{
   display: none;
 }
